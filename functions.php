@@ -4,9 +4,9 @@ require("config.php");
 
 class Database{
 	private $db_host = "localhost"; 
-	private $db_user = "tombola-admin";
-	private $db_pass = "Tombola2018"; 
-	private $db_name = "lp_tombola";
+	private $db_user = "";
+	private $db_pass = ""; 
+	private $db_name = "";
 	
 	private $result = array(); 
  
